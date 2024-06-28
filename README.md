@@ -1,5 +1,7 @@
  # Projeto de criação de sistema bancário
 
+<br>
+
 ### Objetivo Geral
 
 Criar um sistema bancario com as operações: Depositar, Sacar e Visualizar extrato
@@ -32,9 +34,10 @@ Todos os depósitos e saques devem ser exibidos na operação de extrato, permit
 
 Este projeto é focado em uma única conta de usuário, sem necessidade de gerenciar múltiplos usuários, agências ou contas bancárias nesta versão inicial.
 
+<br>
 
-
-<img src="" width="450" height="300"> <img src="" width="450" height="300">
+<img src="https://github.com/LeticiaLavieri/sistema-bancario/blob/main/codigo.PNG?raw=true" width="700" height="600"> 
+<img src="https://github.com/LeticiaLavieri/sistema-bancario/blob/main/extrato.PNG?raw=true" width="350" height="200">
 
 
 
